@@ -1,0 +1,13 @@
+[project]
+name = "dhub-image-cleaner"
+version = "0.1.0"
+description = "TBD"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "mypy>=1.14.1",
+  "python-dotenv>=1.0.1",
+  "requests>=2.32.3",
+  "ruff>=0.9.2",
+  "types-requests>=2.32.0.20241016",
+]
